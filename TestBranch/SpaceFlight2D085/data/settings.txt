@@ -1,0 +1,35 @@
+Sound Volume
+	Music: 7
+	Effects: 9
+Keys
+	Up: 273
+	Left: 276
+	Right: 275
+	Fire: 32
+	Launch: 303
+	Build: 98
+	Repair: 114
+	Fill: 102
+	Pause: 112
+	ZoomOut: 122
+	ZoomIn: 97
+	Drop: 100
+Screen
+	Mode: Windowed
+	Size: 640x480
+
+#Default Keys:
+#Action		Key	Code
+#Speed Up	Up	273
+#Steer Left	Left	276
+#Steer Right	Right	275
+#Fire		Space	32
+#Launch		RShift	303
+#Build Base	B	98
+#Repair		R	114
+#Fill oil tank	F	102
+#Pause		P	112
+#Zoom out	Z	122
+#Zoom in	A	97
+#Drop		D	100
+#For other key codes, check pygame.locals
